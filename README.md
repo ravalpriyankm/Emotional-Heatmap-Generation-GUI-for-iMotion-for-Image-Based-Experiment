@@ -1,5 +1,5 @@
 
-# Emotional Heatmap Generation GUI - User Guide
+# Emotional Heatmap Generation GUI for iMotion for Image-Based Experiment - User Guide
 
 ## Introduction
 
